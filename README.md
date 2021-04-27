@@ -7,10 +7,6 @@ O Repositório contém o projeto realizado na trilha node da NLW#5 o qual teve f
 
 Aprendi mais ainda sobre como organizar o código além do padrão MVC, entendi melhor como organiza o banco utilizando typeorm e como utilizar a UUID.
 
-# Não consegui fazer
-
-- No final da ultima aula acabei não conseguindo conectar um chat pro outro.
-
 ## Como iniciar a aplicação
 
 - clone ou baixe a aplicação encontrada nesse repositório.
